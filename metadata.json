@@ -1,0 +1,6 @@
+{
+  "name": "Sahaya (ಸಹಾಯ)",
+  "description": "Your everyday companion for Kannada in Karnataka. Master auto rides, directions, shopping, and everyday conversations with practical phrases, audio, and conversation practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
